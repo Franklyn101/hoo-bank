@@ -84,9 +84,69 @@ import HelloWorld from './components/HelloWorld.vue'
 
             </div>
         </div>
-        
-        
-        
+        </section>
+        <section class="product-section">
+            <div class="product">
+                <img class="image" src="https://hoo-tawny.vercel.app/assets/bill.fd47dad8.png">
+                <div class="product-info">
+                    <h1>Easily control your <br>billing & invoicing</h1>
+                    <p>Transactions all over the world is safe and secure,<br> with our added security towards protecting your informations<br> and your funds earning rewards and saving money. But with<br> hundreds of credit cards on the market.</p>
+                    <div class="playstore">
+                    <img src="	https://hoo-tawny.vercel.app/assets/apple.994d47a8.svg">
+                    <img src="	https://hoo-tawny.vercel.app/assets/google.3035153f.svg">
+                    </div>
+
+                </div>
+            </div>
+
+
+        </section>
+        <section class="credit-card">
+               <div class="cardflex">
+                <div class="card-info">
+                    <h1>Find a better card deal <br>few easy steps.</h1>
+                    <p>Transactions all over the world is safe and secure,<br> with our added security towards protecting your informations<br> and your funds earning rewards and saving money. But with<br> hundreds of credit cards on the market.</p>
+                    <button>Get Started</button>
+                </div>
+                    <div class="payments">
+                     <img class="image" src="https://hoo-tawny.vercel.app/assets/card.af071def.png">
+                    </div>
+                </div>
+        </section>
+        <section class="testimonial">
+            <div class="test-info">
+                <h1>What people are <br>saying about us</h1>
+                <p>Everything you need to accept card payments<br> and grow your business anywhere on the planet.</p>
+            </div>
+            <div class="test-box">
+                <div class="box1">
+                    <img class="quote" src="https://hoo-tawny.vercel.app/assets/quotes.a87d5e6d.svg">
+                    <p>Money is only a tool. It will take<br> you wherever you wish, but it<br> will not replace you as the<br> driver.</p>
+                    <div class="founders">
+                        <img src="https://hoo-tawny.vercel.app/assets/people01.a772086b.png">
+                        <h4>Herman Jensen<br> <span>Founder & Leader</span></h4>
+                    </div>
+                </div>   
+
+                <div class="box1">
+                    <img class="quote" src="https://hoo-tawny.vercel.app/assets/quotes.a87d5e6d.svg">
+                    <p>Money is only a tool. It will take<br> you wherever you wish, but it<br> will not replace you as the<br> driver.</p>
+                    <div class="founders">
+                        <img src="https://hoo-tawny.vercel.app/assets/people01.a772086b.png">
+                        <h4>Herman Jensen<br> <span>Founder & Leader</span></h4>
+                    </div>
+                </div>    
+                    
+                        <div class="box1">
+                    <img class="quote" src="https://hoo-tawny.vercel.app/assets/quotes.a87d5e6d.svg">
+                    <p>Money is only a tool. It will take<br> you wherever you wish, but it<br> will not replace you as the<br> driver.</p>
+                    <div class="founders">
+                        <img src="https://hoo-tawny.vercel.app/assets/people01.a772086b.png">
+                        <h4>Herman Jensen<br> <span>Founder & Leader</span></h4>
+                        </div>        
+                </div>
+
+            </div>
         </section>
     
   <HelloWorld msg="Vite + Vue" />
